@@ -1,0 +1,8 @@
+{
+  "name": "boilerplate",
+  "verbose": true,
+  "testRegex": "((\\.|/*.)(test|spec))\\.js?$",
+  "moduleNameMapper": {
+    "\\.(css|scss)$": "identity-obj-proxy"
+  }
+}
